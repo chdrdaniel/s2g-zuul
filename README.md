@@ -1,7 +1,7 @@
 # s2g-zuul
 Spring2go定制版Netflix zuul
 
-## 注意！！！
+## 注意！！！肥嘟嘟
 
 1. 本项目为微服务课程讲解开发，代码仅供学习参考，如需生产化，需要做生产化扩展+严格测试！！！另外请考虑Spring Cloud Zuul。
 2. 注意本项目依赖[CAT3.0](https://github.com/dianping/cat)客户端，启动前需要先CAT客户端配置工作，否则Servlet会启不来，步骤如下描述。
